@@ -1,0 +1,8 @@
+# Ignore pycharm files
+.idea
+
+# Pytest
+tests/.pytest_cache
+
+# Pycache
+*pycache*
