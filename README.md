@@ -6,7 +6,7 @@ Currently, it contains implementations to reproduce the results from the followi
 
 1. R. Saha, S. Rini, M. Rao and A. Goldsmith, "Decentralized Optimization Over Noisy, Rate-Constrained Networks: How We Agree By Talking About How We Disagree," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 5055-5059, doi: 10.1109/ICASSP39728.2021.9413527 (https://ieeexplore.ieee.org/document/9413527).
 
-2. [Extended journal version]: R. Saha, S. Rini, M. Rao and A. Goldsmith, "Decentralized optimization over noisy, rate-constrained networks: Achieving consensus by communicating differences", arXiv preprint, 2021 (Currently under review) (https://arxiv.org/abs/2010.11292)
+2. [Extended journal version] R. Saha, S. Rini, M. Rao and A. Goldsmith, "Decentralized optimization over noisy, rate-constrained networks: Achieving consensus by communicating differences", arXiv preprint, 2021 (Currently under review) (https://arxiv.org/abs/2010.11292)
 
 The directory labelled MATLAB codes contains decentralized implementations for LASSO and SVM on synthetically generated data. Some details are as follows:
 
