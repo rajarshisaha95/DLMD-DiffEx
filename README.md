@@ -14,3 +14,7 @@ The directory labelled MATLAB codes contains decentralized implementations for L
 2. DLMD_DiffEx_SVM_SuccessProbability.m contains the code to obtain success probability as dynamic range of the quantizers is varied.
 3. LASSO_cvx_solver.m/SVM_cvx_solver.m contain codes to obtain the solution using interior point methods of CVX (with respect to which suboptimality gaps are plotted).
 4. generate_LASSO_dataset.m/generate_SVM_dataset.m contain codes to generate the synthetic datasets.
+
+The directory labelled Python codes contains implementation of decentralized training of neural networks for MNIST digit classification. Simply executing dlmd_diffex.py should give the results.
+
+Please note that this repository is still a work in progress and there might be some issues related to platform dependencies. 
